@@ -1,0 +1,11 @@
+La seguridad digital es fundamental porque permite proteger la 
+información de las personas que utilizan plataformas tecnológicas. 
+Muchas comunidades dependen de sistemas digitales para comunicarse, 
+compartir información y desarrollar procesos participativos. 
+Si no existen medidas de seguridad adecuadas, pueden ocurrir robos de 
+información o accesos no autorizados. Proteger contraseñas, usar 
+conexiones seguras y controlar accesos ayuda a prevenir estos riesgos. 
+Además, mantener la seguridad genera confianza en los usuarios. 
+Por eso, toda plataforma tecnológica debe implementar buenas prácticas 
+que garanticen la privacidad, integridad y disponibilidad de la 
+información.
